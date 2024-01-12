@@ -8,5 +8,5 @@ Cheatsheets\
 5.Vectors\
 6.Functions\
 7.Classes & Objects\
-  The Object of Your Affection\
-8.References & Pointers\
+--The Object of Your Affection\
+8.References & Pointers
