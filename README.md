@@ -1,11 +1,12 @@
 # learn-cpp
 
-1.Cheatsheets
-2.Hello World
-3.Variables
-4.Conditionals & Logic
-5.Loops
-6.Vectors
-7.Functions
-8.Classes & Objects
-9.References & Pointers
+Cheatsheets\
+1.Hello World\
+2.Variables\
+3.Conditionals & Logic\
+4.Loops\
+5.Vectors\
+6.Functions\
+7.Classes & Objects\
+  The Object of Your Affection\
+8.References & Pointers\
